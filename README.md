@@ -1,5 +1,4 @@
-![Vamsi Krishna's Professional Photo](![5d66d22a-339e-4169-87c7-b550531a8283](https://github.com/user-attachments/assets/92f1a55c-7442-4cf4-8e99-4e02a8164016)
-) 
+![Vamsi Krishna's Professional Photo](![5d66d22a-339e-4169-87c7-b550531a8283](https://github.com/user-attachments/assets/92f1a55c-7442-4cf4-8e99-4e02a8164016)) 
 
 # Vamsi Krishna
 
