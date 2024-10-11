@@ -1,4 +1,4 @@
-![Vamsi Krishna's Professional Photo]("https://github.com/Vamsi3515/aboutme/blob/main/profile.png") 
+![Vamsi Krishna's Photo]("https://github.com/Vamsi3515/aboutme/blob/main/profile.png") 
 
 # Vamsi Krishna
 
