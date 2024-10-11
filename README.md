@@ -1,4 +1,4 @@
-![Vamsi Krishna's Professional Photo]("https://drive.google.com/file/d/15-XKhior3Av_4kNf2hhur4ua-JYHqZdA/view?usp=sharing") 
+![Vamsi Krishna's Professional Photo]("https://github.com/Vamsi3515/aboutme/blob/main/profile.png") 
 
 # Vamsi Krishna
 
