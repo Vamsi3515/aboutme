@@ -1,4 +1,4 @@
-![Vamsi Krishna's Photo]("https://github.com/Vamsi3515/aboutme/blob/main/profile.png") 
+![Vamsi Krishna's Profile]("https://github.com/Vamsi3515/aboutme/blob/main/profile.png") 
 
 # Vamsi Krishna
 
@@ -41,6 +41,67 @@ A comprehensive college website featuring:
 **Tech Stack**: Web Development (HTML/CSS/JS), VR Integration
 
 [GitHub Repository](https://github.com/vamsikrishna/college-website)
+
+### Twitter-Like Social Network
+A fully functional Twitter-like social network website designed for CS50W.
+
+- **Key Features**:
+  - Create and edit posts
+  - Like/Unlike posts
+  - Profile page with followers/following functionality
+  - Paginated posts and a feed of followed users
+
+**Tech Stack**: Django, JavaScript, HTML/CSS  
+[GitHub Repository](https://github.com/vamsikrishna/twitter-network)
+
+---
+
+### Online Auction Site
+An auction platform where users can create listings, bid on items, and manage auctions.
+
+- **Key Features**:
+  - Create, edit, and close auctions
+  - Bid on listings
+  - Watchlist functionality
+  - User authentication and category-based browsing
+
+**Tech Stack**: Django, JavaScript, HTML/CSS  
+[GitHub Repository](https://github.com/vamsikrishna/auction-site)
+
+---
+
+### Email Client with API Integration
+A single-page email client using Django and JavaScript.
+
+- **Key Features**:
+  - Compose, send, and reply to emails
+  - View emails in Inbox, Sent, and Archive folders
+  - Archive and unarchive emails
+
+**Tech Stack**: Django, JavaScript, HTML/CSS  
+[GitHub Repository](https://github.com/vamsikrishna/email-client)
+
+---
+
+### Wiki Encyclopedia
+A dynamic, user-editable encyclopedia built using Django.
+
+- **Key Features**:
+  - Create and edit encyclopedia entries using Markdown
+  - Search functionality with exact and substring matches
+  - Random page access
+
+**Tech Stack**: Django, HTML/CSS  
+[GitHub Repository](https://github.com/vamsikrishna/wiki-encyclopedia)
+
+---
+
+## 💻 **Skills Highlighted in These Projects**
+
+- **Languages**: Python, Java, JavaScript, HTML/CSS, C
+- **Frameworks**: Django, React
+- **Technologies**: Machine Learning, AI, Web Development, API Integration, VR
+- **Tools**: Git, Docker, Jupyter Notebooks
 
 
 ## 📫 **Let's Connect**
