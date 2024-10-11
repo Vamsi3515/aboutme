@@ -54,7 +54,7 @@ A fully functional Twitter-like social network website designed for CS50W.
   - Paginated posts and a feed of followed users
 
 **Tech Stack**: Django, JavaScript, HTML/CSS  
-[GitHub Repository]([https://github.com/vamsikrishna/twitter-network](https://github.com/me50/Vamsi3515/tree/web50/projects/2020/x/network)
+[GitHub Repository](https://github.com/me50/Vamsi3515/tree/web50/projects/2020/x/network)
 
 ---
 
@@ -68,7 +68,7 @@ An auction platform where users can create listings, bid on items, and manage au
   - User authentication and category-based browsing
 
 **Tech Stack**: Django, JavaScript, HTML/CSS  
-[GitHub Repository]([https://github.com/vamsikrishna/auction-site](https://github.com/me50/Vamsi3515/tree/web50/projects/2020/x/commerce))
+[GitHub Repository](https://github.com/me50/Vamsi3515/tree/web50/projects/2020/x/commerce)
 
 ---
 
@@ -81,7 +81,7 @@ A single-page email client using Django and JavaScript.
   - Archive and unarchive emails
 
 **Tech Stack**: Django, JavaScript, HTML/CSS  
-[GitHub Repository]([https://github.com/vamsikrishna/email-client](https://github.com/me50/Vamsi3515/tree/web50/projects/2020/x/mail))
+[GitHub Repository](https://github.com/me50/Vamsi3515/tree/web50/projects/2020/x/mail)
 
 ---
 
@@ -94,7 +94,7 @@ A dynamic, user-editable encyclopedia built using Django.
   - Random page access
 
 **Tech Stack**: Django, HTML/CSS  
-[GitHub Repository]([https://github.com/vamsikrishna/wiki-encyclopedia](https://github.com/me50/Vamsi3515/tree/web50/projects/2020/x/wiki))
+[GitHub Repository](https://github.com/me50/Vamsi3515/tree/web50/projects/2020/x/wiki)
 
 ---
 
