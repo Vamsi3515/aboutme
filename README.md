@@ -13,7 +13,7 @@ Welcome to my personal GitHub repository! I am passionate about technology, deve
 - **Name**: Vamsi Krishna
 - **Degree**: B.Tech in Computer Science Engineering (3rd Year)
 - **Interests**: Web Development, Machine Learning, Android Development, AI
-- **Experience**: Developed projects in Django, Python, Java, and more. Participated in SIH 2023 & 2024.
+- **Experience**: Developed projects in Django, Python, Java, React, NodeJS, Machiene Learning, AI and more. Participated in SIH 2023 & 2024.
 
 ---
 
